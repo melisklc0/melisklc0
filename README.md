@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Melis
 - 🌱 I’m currently learning Java
-- 📫 How to reach me melis729k@gmail.com
+- 📫 How to reach me meliisklc0@gmail.com
 
 <!---
 melisklc0/melisklc0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
