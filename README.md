@@ -4,18 +4,11 @@
 
 <br />
 
-<a href="https://melisklc0.github.io/melis-kilic-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-FFF8F0?style=for-the-badge&logo=vercel&logoColor=0F3248&labelColor=E7D8CA" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/melisklc0">
-  <img src="https://img.shields.io/badge/LinkedIn-2D607D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:klmelis@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-A06448?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<a href="https://melisklc0.github.io/melis-kilic-portfolio/"><img src="https://img.shields.io/badge/Portfolio-FFF8F0?style=for-the-badge&logo=vercel&logoColor=0F3248&labelColor=E7D8CA" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/melisklc0"><img src="https://img.shields.io/badge/LinkedIn-2D607D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:klmelis@hotmail.com"><img src="https://img.shields.io/badge/Email-A06448?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
-
 
 ### Hi, I'm Melis!
 
