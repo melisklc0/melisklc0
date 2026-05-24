@@ -22,5 +22,3 @@
 I'm an **AI & Data Engineer** focused on building production-minded AI systems, data platforms, and backend services.
 
 My work centers on LLM-backed applications, agentic workflows, evaluation pipelines, governed data layers, and observable infrastructure. I care about systems that are useful beyond the demo: structured, measurable, maintainable, and clear enough for teams to operate.
-
-> Production AI systems should be observable, testable, and grounded in real data.
