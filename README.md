@@ -24,9 +24,3 @@ I'm an **AI & Data Engineer** focused on building production-minded AI systems, 
 My work centers on LLM-backed applications, agentic workflows, evaluation pipelines, governed data layers, and observable infrastructure. I care about systems that are useful beyond the demo: structured, measurable, maintainable, and clear enough for teams to operate.
 
 > Production AI systems should be observable, testable, and grounded in real data.
-
-### Core stack
-
-| AI & LLM Systems | Backend & Data | Production |
-| --- | --- | --- |
-| ![LangGraph](https://img.shields.io/badge/LangGraph-0F3248?style=flat&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0F3248?style=flat)<br />![LangChain](https://img.shields.io/badge/LangChain-0F3248?style=flat&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-0F3248?style=flat&logo=openai&logoColor=white) | ![Python](https://img.shields.io/badge/Python-2D607D?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-2D607D?style=flat&logo=fastapi&logoColor=white)<br />![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2D607D?style=flat&logo=postgresql&logoColor=white) ![dbt Core](https://img.shields.io/badge/dbt%20Core-2D607D?style=flat&logo=dbt&logoColor=white) | ![Langfuse](https://img.shields.io/badge/Langfuse-A06448?style=flat&logo=langfuse&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-A06448?style=flat&logo=docker&logoColor=white)<br />![GitLab CI](https://img.shields.io/badge/GitLab%20CI-A06448?style=flat&logo=gitlab&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo%20CD-A06448?style=flat&logo=argo&logoColor=white) |
